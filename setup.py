@@ -11,7 +11,7 @@ setup(
     description="A Python package for managing and querying African text corpora",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/avokanbj/afrocorpus",
+    url="https://github.com/avokan-air/afrocorpus",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",

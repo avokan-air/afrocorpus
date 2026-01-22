@@ -12,4 +12,4 @@ license = {text = "MIT"}
 authors = [{name = "Ola ABOUBAKAR", email = "ola@avokan.com"}]
 
 [project.urls]
-Homepage = "https://github.com/avokanbj/afrocorpus"
+Homepage = "https://github.com/avokan-air/afrocorpus"
