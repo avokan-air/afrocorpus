@@ -253,8 +253,7 @@ class AfroCorpus:
                 
                 # If this was the last URL, show error
                 if url_idx == len(GDRIVE_URLS) - 1:
-                    print("
-" + "="*60)
+                    print("" + "="*60)
                     print("Failed to download from all available URLs.")
                     print("Please check your internet connection and try again.")
                     print("="*60)
