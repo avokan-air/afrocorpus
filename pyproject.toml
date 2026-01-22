@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "afrocorpus"
+version = "0.1.0"
+description = "A Python package for managing and querying African text corpora"
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+authors = [{name = "Ola ABOUBAKAR", email = "ola@avokan.com"}]
+
+[project.urls]
+Homepage = "https://github.com/avokanbj/afrocorpus"
