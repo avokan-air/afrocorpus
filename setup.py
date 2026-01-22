@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="afrocorpus",
-    version="0.1.2",
+    version="0.1.3",
     author="Ola ABOUBAKAR",
     author_email="ola@avokan.com",
-    description="A Python package for managing and querying African text corpora",
+    description="A Python package by Avokan for managing and querying African text corpora",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/avokan-air/afrocorpus",
