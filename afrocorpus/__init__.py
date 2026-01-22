@@ -17,7 +17,7 @@ _txt_files = [f for f in os.listdir(_data_dir) if f.endswith('.txt')] if os.path
 
 if not _txt_files:
     print("=" * 60)
-    print("Welcome to AfroCorpus!")
+    print("Welcome to AfroCorpus! (by Avokan AIR)")
     print("=" * 60)
     print("No corpus data found. To download the corpus data, run:")
     print()
